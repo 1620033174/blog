@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://1620033174.github.io/blog/sitemap.xml
